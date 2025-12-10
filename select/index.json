@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ツバサ",
+  "base_artist": "ナナホシ(CV:若山詩音)",
+  "createdAt": "2025-12-10T05:08:30.649255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツバサ",
+      "artist": "UNDER GRAPH",
+      "has_synced": true,
+      "path": "select/01_ツバサ_UNDER_GRAPH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツバサ",
+      "artist": "ナナホシ(CV:若山詩音)",
+      "has_synced": true,
+      "path": "select/02_ツバサ_ナナホシ(CV_若山詩音).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツバサ",
+      "artist": "ナナホシ(CV:若山詩音)",
+      "has_synced": true,
+      "path": "select/03_ツバサ_ナナホシ(CV_若山詩音).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Step ～ツバサ & 夜空 & 真昼 ver.～",
+      "artist": "ななせ・みほ・かな from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/04_One_Step_~ツバサ_&_夜空_&_真昼_ver.~_ななせ・みほ・かな_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツバサ - Tsubasa",
+      "artist": "Under Graph",
+      "has_synced": true,
+      "path": "select/05_ツバサ_-_Tsubasa_Under_Graph.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツバサ",
+      "artist": "丸本莉子",
+      "has_synced": false,
+      "path": "select/06_ツバサ_丸本莉子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tsubasa (ツバサ)",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/07_Tsubasa_(ツバサ)_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モニタリング / DECO*27【歌ってみた】ツバサ",
+      "artist": "ツバサ【EL6】",
+      "has_synced": true,
+      "path": "select/08_モニタリング___DECO_27【歌ってみた】ツバサ_ツバサ【EL6】.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ツバサ・ラ・リベルテ",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/09_ツバサ・ラ・リベルテ_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツバサ",
+      "artist": "ナナホシ(CV:若山詩音)",
+      "has_synced": false,
+      "path": "select/pl_01_ツバサ_ナナホシ(CV_若山詩音).txt"
+    }
+  ]
+}
